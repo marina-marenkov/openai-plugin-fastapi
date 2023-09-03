@@ -1,0 +1,75 @@
+[
+      {
+        "name": "Marina",
+        "description": "Solution Architect",
+        "category": "Free-lancer",
+        "address": "456 Oak St",
+        "age": 28,
+        "department": "Contracting"
+      },
+      {
+        "name": "John",
+        "description": "Senior Developer",
+        "category": "IT",
+        "address": "789 Maple St",
+        "age": 35,
+        "department": "Information Technology"
+      },
+      {
+        "name": "Jane",
+        "description": "Marketing Specialist",
+        "category": "Marketing",
+        "address": "101 Pine St",
+        "age": 32,
+        "department": "Marketing"
+      },
+      {
+        "name": "Robert",
+        "description": "Sales Manager",
+        "category": "Sales",
+        "address": "202 Birch St",
+        "age": 40,
+        "department": "Sales"
+      },
+      {
+        "name": "Emily",
+        "description": "HR Manager",
+        "category": "HR",
+        "address": "303 Cedar St",
+        "age": 29,
+        "department": "Human Resources"
+      },
+      {
+        "name": "Michael",
+        "description": "Finance Analyst",
+        "category": "Finance",
+        "address": "404 Redwood St",
+        "age": 38,
+        "department": "Finance"
+      },
+      {
+        "name": "Sarah",
+        "description": "Product Manager",
+        "category": "Product",
+        "address": "505 Spruce St",
+        "age": 34,
+        "department": "Product Management"
+      },
+      {
+        "name": "David",
+        "description": "Network Engineer",
+        "category": "IT",
+        "address": "606 Fir St",
+        "age": 36,
+        "department": "Information Technology"
+      },
+      {
+        "name": "Sophia",
+        "description": "Customer Support",
+        "category": "Support",
+        "address": "707 Pinecone St",
+        "age": 27,
+        "department": "Customer Support"
+      }
+    ]
+  
