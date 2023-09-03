@@ -9,7 +9,7 @@ with open("./data/products.json", "r") as f:
     products = json.load(f)
 
 with open("./data/employees.json", "r") as e:
-    employees = json.load(f)
+    employees = json.load(e)
 
 @app.get("/products", summary="Get a list of products", operation_id="getProducts")
 async def get_products(query: str = None):
